@@ -9,11 +9,11 @@ The purpose of this analysis is to analyze Amazon reviews written by members of 
 
 **How many Vine reviews and non-Vine reviews were there?**
 
-<ins>There were 22 Vine reviews.</ins>
+There were 22 Vine reviews.
 
-![totalpdreviews](Images/totalpdreviews.png)
+![totalpdreviews](Images/totalpdreviewspng)
 
-<ins>There were 26,924 non-Vine reviews.</ins>
+There were 26,924 non-Vine reviews.
 
 ![totalunpaidreviews](Images/totalunpaidreviews.png)
 
